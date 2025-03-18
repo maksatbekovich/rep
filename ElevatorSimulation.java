@@ -46,7 +46,7 @@ class Elevator {
     }
 }
 
-public class ElevatorSimulation {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of floors: ");
